@@ -51,54 +51,54 @@ Considering the scale at which digital transactions are happening in India, this
 
 ## The Idea
 
-Have you also been tired of entering OTP (One Time Password) every time you make any transaction or update any detail on your net banking?
+• Have you also been tired of entering OTP (One Time Password) every time you make any transaction or update any detail on your net banking?
 
-Do you also sometimes don’t receive OTPs, or do OTPs arrive just after you close the tab?
+• Do you also sometimes don’t receive OTPs, or do OTPs arrive just after you close the tab?
 
-I feel the same pain too!
+• I feel the same pain too!
 
-That’s why, in this American Express Hackathon, I decided to make an Banking Web App that solely relies on Face & Hand posture Recognition technology.
+• That’s why, in this American Express Hackathon, I decided to make an Banking Web App that solely relies on Face & Hand posture Recognition technology.
 
-Here are some functionalities the Web app have -
+• Here are some functionalities the Web app have -
 
-Login Process entirely based on your email address and Face Recognition.
+• Login Process entirely based on your email address and Face Recognition.
 
-Instead of SMS OTP, every transaction in our web app will be done using hand posture recognition.
+• Instead of SMS OTP, every transaction in our web app will be done using hand posture recognition.
 
-For small-ticket Transactions (less than and equal to 10,000), the user just need to scan the face and then needs to do thumbs up👍 for the transaction to went through and make a victory ✌️ sign for cancelling the transaction.
+• For small-ticket Transactions (less than and equal to 10,000), the user just need to scan the face and then needs to do thumbs up👍 for the transaction to went through and make a victory ✌️ sign for cancelling the transaction.
 
-For Transactions greater than Rs. 10,000 , the user need to first authenticate by scanning their face and then system will generate a random number and show it on the screen. 
+• For Transactions greater than Rs. 10,000 , the user need to first authenticate by scanning their face and then system will generate a random number and show it on the screen. 
 
-User just have to posture that number on the screen with help of his fingers.
+• User just have to posture that number on the screen with help of his fingers.
 
-Voila! Transaction is done.
+• Voila! Transaction is done.
 
-Update your Mobile Phone Number.
+• Update your Mobile Phone Number.
 
-Transaction History to track your spendings.
+• Transaction History to track your spendings.
 
-Various validation checks to make application more robust
+• Various validation checks to make application more robust
 
-Mobile Number Format Validation (only accepts Indian Mobile Numbers).
+• Mobile Number Format Validation (only accepts Indian Mobile Numbers).
 
-Payment Type (IMPS/ NEFT/ RTGS) validation based on amount entered (on payment page).
+• Payment Type (IMPS/ NEFT/ RTGS) validation based on amount entered (on payment page).
 
-Prevents user to save a Multi-Face Image (which have more than one person in it).
+• Prevents user to save a Multi-Face Image (which have more than one person in it).
 
-Some features that might be implemented next in near future -
+• Some features that might be implemented next in near future -
 
-Online KYC using Object Detection and Face Similarity Matching Technology.
+• Online KYC using Object Detection and Face Similarity Matching Technology.
 
-Sentiment/ Mood analysis can also be done to track if a user is willingly doing the transaction or not.
+• Sentiment/ Mood analysis can also be done to track if a user is willingly doing the transaction or not.
 
 ## Tech Stack
 
 
-Last but not least, let’s talk about the tech stack I’ll be using to build upon my idea. For the frontend part, I am using React JS mainly and Bootstrap to make it more aesthetic and soothing to the eyes. For Login & Signup Functionality in the backend area, I’ve used Firebase to verify and store the credentials.
+• Last but not least, let’s talk about the tech stack I’ll be using to build upon my idea. For the frontend part, I am using React JS mainly and Bootstrap to make it more aesthetic and soothing to the eyes. For Login & Signup Functionality in the backend area, I’ve used Firebase to verify and store the credentials.
 
-Coming to Face recognition, I am using KAIROS Face API to detect a face in the image (captured through webcam or mobile camera) and also to recognize the face during any authentication process involved.
+• Coming to Face recognition, I am using KAIROS Face API to detect a face in the image (captured through webcam or mobile camera) and also to recognize the face during any authentication process involved.
 
-Now comes the most exciting stuff, this project will also consume Tensorflow JS and Fingerpose & Handpose library to detect a hand and count fingers raised by the user (needed in Finger-based OTP functionality).
+• Now comes the most exciting stuff, this project will also consume Tensorflow JS and Fingerpose & Handpose library to detect a hand and count fingers raised by the user (needed in Finger-based OTP functionality).
 
 
 
