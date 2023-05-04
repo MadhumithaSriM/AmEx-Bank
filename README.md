@@ -18,11 +18,11 @@
 
 5. Replace firebase API keys with your configurations
 
-6. Create a .env file
+6. Create a `.env` file
 
 7. Add relevant credentials 
 
-8. npm start
+8. `npm start`
 
 9. The app is now running at http://localhost:3000/
 
