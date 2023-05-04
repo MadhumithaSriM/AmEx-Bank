@@ -8,13 +8,13 @@
 
 ## Instructions to run it locally
 
-1. git clone  'https://github.com/MadhumithaSriM/AmEx-Bank.git'  `contributing.md`
+1. git clone `https://github.com/MadhumithaSriM/AmEx-Bank.git`
 
-2. cd ./AmEx-Bank
+2. `cd ./AmEx-Bank`
 
 3. Install node dependencies
 
-4. npm install
+4. `npm install`
 
 5. Replace firebase API keys with your configurations
 
