@@ -8,7 +8,7 @@
 
 ## Instructions to run it locally
 
-1. git clone  'https://github.com/MadhumithaSriM/AmEx-Bank.git'
+1. git clone  'https://github.com/MadhumithaSriM/AmEx-Bank.git'  `contributing.md`
 
 2. cd ./AmEx-Bank
 
