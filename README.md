@@ -20,7 +20,7 @@
 
 6. Create a .env file
 
-7. Add relevant credentials (I've given in the last section of Acehacker Final Submission Page)
+7. Add relevant credentials 
 
 8. npm start
 
