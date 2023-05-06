@@ -4,7 +4,7 @@
 🌟Submission for American Express Makeathon 2023 🌟
 
 
-![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/American_Express_logo_%282018%29.svg/1200px-American_Express_logo_%282018%29.svg.png)
+![App Screenshot](https://d28wu8o6itv89t.cloudfront.net/images/amexlogopng-1578907833580.png)
 
 
 ## Instructions to run it locally
